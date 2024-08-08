@@ -1,4 +1,4 @@
-## Hi there 👋
+CTO / co-founder @ [miradorliving.com](miradorliving.com)
 
 <!--
 **blakeley/blakeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
